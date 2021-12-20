@@ -1,4 +1,4 @@
-package com.br.mercadolivre.itbootcamp.exercico5;
+package com.br.mercadolivre.itbootcamp.JAVAI.exercico5;
 
 public class Exercicio5 {
 

@@ -1,4 +1,4 @@
-package com.br.mercadolivre.itbootcamp.JAVAI;
+package com.br.mercadolivre.itbootcamp.JAVAI.exercicio1;
 
 import java.util.Scanner;
 
